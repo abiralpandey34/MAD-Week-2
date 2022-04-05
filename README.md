@@ -1,6 +1,6 @@
 ## Homework
 
-### Homework was to add a new 'zero' button which should change color depending on the count value.
+### Homework was to add a new 'zero' button which should change color depending on the count value
 
 <br/>
 
