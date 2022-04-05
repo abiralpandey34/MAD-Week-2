@@ -5,6 +5,8 @@
 <br/>
 
 <ul>
-<li> Mobile-Portrait Orientation</li><img src="gif/mobile-portait_gif.gif"> <br/>
-<li> Mobile-Landscape Orientation</li><img src="gif/mobile-landscape_gif.gif"> <br/>
+<li> Mobile-Portrait Orientation </li><br/>
+  <img src="gif/mobile-portait_gif.gif"> 
+<li> Mobile-Landscape Orientation </li><br/>
+  <img src="gif/mobile-landscape_gif.gif"> 
 
